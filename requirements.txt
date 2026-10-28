@@ -1,0 +1,19 @@
+pandas>=2.0
+numpy>=1.24
+tqdm>=4.66
+
+# Data download
+datasets>=2.18
+
+# Indexing and retrieval
+sentence-transformers>=2.7
+chromadb>=0.5
+langchain-text-splitters>=0.2
+
+# Readers
+torch>=2.1
+transformers>=4.41
+ollama>=0.2
+
+# Scoring
+evaluate>=0.4

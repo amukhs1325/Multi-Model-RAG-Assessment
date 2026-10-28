@@ -1,0 +1,15 @@
+# Data created by download_squad.py
+train.csv
+validation.csv
+
+# Vector database created by processing.py
+my_local_squad_chroma_db*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
